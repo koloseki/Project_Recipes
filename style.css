@@ -1,5 +1,7 @@
-* {
-    background-color: antiquewhite;
+body {
+    background-color: #00203FFF;
+    color: #ADEFD1FF;
+    font-family: 'Roboto Mono';
 }
 
 h1{
@@ -8,10 +10,11 @@ h1{
 
 a{
     text-decoration: none;
+    color: white;
 }
 
 a:hover{
-    background-color: black;
-    color: white;
+    background-color: #ADEFD1FF;
+    color: #00203FFF;
     transition-duration: 2s;
 }
