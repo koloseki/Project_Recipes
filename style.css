@@ -1,0 +1,17 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 2s;
+}
